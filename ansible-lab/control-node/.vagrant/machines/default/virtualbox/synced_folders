@@ -1,0 +1,1 @@
+{"nfs":{"/vagrant":{"type":"nfs","guestpath":"/vagrant","hostpath":"/home/master/Documentos/vagrant-lab-master/ansible-lab/control-node","disabled":false,"nfs_version":4,"nfs_udp":false,"nfs_export":false,"__vagrantfile":true,"map_uid":1000,"map_gid":1000,"uuid":"1692890715"}}}
